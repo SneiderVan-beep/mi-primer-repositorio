@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title (mi.primer.pagina)
+st.title (primer.pagina)
 
 # Texto
 st.write("Esta es una interfaz muy sencilla.")
